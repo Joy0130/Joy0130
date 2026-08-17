@@ -9,7 +9,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 <details open>
 <summary>English about me</summary>
@@ -25,7 +25,7 @@
 </details>
 
 <details>
-<summary>中文 簡介</summary>
+<summary>中文 about me</summary>
 
 | | |
 |---|---|
@@ -36,3 +36,10 @@
 | 📬 **聯絡方式** | Joy10290014@gmail.com |
 
 </details>
+
+## 🗂 Portfolio
+
+> 🔗 **[joy0130.github.io/Joy_portfolio](https://joy0130.github.io/Joy_portfolio/)**  
+> 個人作品集，收錄 Web 開發、DevOps、自動化流程、 AI 應用＆整合專案
+
+---
