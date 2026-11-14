@@ -24,7 +24,7 @@
 | | |
 |---|---|
 | 👤 **Name** | Joy |
-| 💼 **Role** | IT Engineer @ Fu Tsu Construction Co., Ltd. |
+| 💼 **Role** | IT Deputy Section Manager @ Fu Tsu Construction Co., Ltd. |
 | 📍 **Location** | Taipei, Taiwan 🇹🇼 |
 | 🎯 **Focus** | Leveraging AI to accelerate software development, automate repetitive tasks, and explore innovative AI applications. Focused on DevOps, web operations, and CI/CD automation to streamline development, deployment, and system maintenance workflows. |
 | 📬 **Contact** | Joy10290014@gmail.com |
@@ -39,13 +39,13 @@ I'm continuously exploring AI agents, workflow automation, and emerging AI techn
 
 </details>
 
-<details>
+<details open>
 <summary>中文 about me</summary>
 
 | | |
 |---|---|
 | 👤 **姓名** | Joy |
-| 💼 **職位** | 互助營造股份有限公司 資訊部工程師 |
+| 💼 **職位** | 互助營造股份有限公司 資訊部副課長 |
 | 📍 **所在地** | 台灣 🇹🇼 台北 |
 | 🎯 **專注方向** | 用 AI 加速軟體開發、自動化重複性工作，並探索創新的 AI 應用。專注於 DevOps、網站維運和 CI/CD 自動化，讓開發、部署和系統維護流程更順暢。 |
 | 📬 **聯絡方式** | Joy10290014@gmail.com |
